@@ -201,7 +201,6 @@
 | git commit test.txt          | 提交 文件 test.txt             |          |
 | git commit -m "提交全部文件" | 提交全部文件                   |          |
 |                              |                                |          |
-|                              |                                |          |
 
 
 
